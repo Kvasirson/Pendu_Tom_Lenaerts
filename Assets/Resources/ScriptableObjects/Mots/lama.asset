@@ -1,0 +1,21 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ae1d62fd210c6fc47b5b4c1b121b03ed, type: 3}
+  m_Name: lama
+  m_EditorClassIdentifier: 
+  "graph\xE8mes":
+  - {fileID: 11400000, guid: 6a4375f5ed2d8b24e8c86180518490ee, type: 2}
+  - {fileID: 11400000, guid: 0df37908941917442976942a855406bb, type: 2}
+  - {fileID: 11400000, guid: 6ebe216807d2877439ff7fa5ddef3c8d, type: 2}
+  - {fileID: 11400000, guid: 0df37908941917442976942a855406bb, type: 2}
+  image: {fileID: 21300000, guid: 489dccaed7f9cfe49b6e29047acb15a4, type: 3}
+  audio: {fileID: 8300000, guid: 1700fb546ce8e1042864dbe08baaaf91, type: 3}

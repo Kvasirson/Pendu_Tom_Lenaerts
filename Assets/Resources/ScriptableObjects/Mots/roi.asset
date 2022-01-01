@@ -1,0 +1,19 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ae1d62fd210c6fc47b5b4c1b121b03ed, type: 3}
+  m_Name: roi
+  m_EditorClassIdentifier: 
+  "graph\xE8mes":
+  - {fileID: 11400000, guid: e71b092817a5db646bd1d0b93788cc5b, type: 2}
+  - {fileID: 11400000, guid: 9b0ca26129182c8448750c3653e9e237, type: 2}
+  image: {fileID: 21300000, guid: e8c2a59333e328a44bc2bec293e1b77f, type: 3}
+  audio: {fileID: 8300000, guid: 986babed396ba644290688a9a0e9963b, type: 3}
